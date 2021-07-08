@@ -4,7 +4,7 @@ a ='Bio'
 b ='Informatics'
 c = a + b
 print(c)
-'''
+
 class A:
     def __init__(self, val):
         self.val = val
@@ -18,5 +18,5 @@ a2 = A('b')
 print(a1.val + a2.val)
 print(a1 + a2)
 print(a1 * a2)
-'''
+
 #vcf는 변이를 담고 있는 파일
